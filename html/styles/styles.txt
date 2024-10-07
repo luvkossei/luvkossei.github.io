@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+html {
+    font-size: 100%;
+}
+
+body {
+    background- color: #ccffff;
+    color: #432;
+}
+
+h1 {
+    margin: 10px;
+}
+
+h2 {
+    background-color: #87CEFA;
+    padding: 10px 10px 10px 20px;
+    border: 1px solid #fff;
+    margin: 20px 0 10px 0;
+}
+
+h2:before {
+    content: "";
+    padding: 3px 0;
+    border-left: 5px solid #0099FF;
+    margin: 0 7px 0 0;
+}
